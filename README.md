@@ -1,1 +1,1 @@
-# UTEC-UNI-Fundamentos-de-Programaci-n
+# UTEC-UNI-Fundamentos-de-Programacion
